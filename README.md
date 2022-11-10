@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Soon : https://loanbrnt.github.io/
+
+Check my online portfolio : https://www.canva.com/design/DAFEm6-Be7Y/Sx7h3dTDZpeO0DWlPCa1NA/view?utm_content=DAFEm6-Be7Y&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+
 <!--
 **loanBRNT/loanBRNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
