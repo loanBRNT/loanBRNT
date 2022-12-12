@@ -1,21 +1,19 @@
-### Welcome on my profile 👋
-
-⚒️ -> Soon : https://loanbrnt.github.io/
+# Welcome on my profile 👋
 
 🌟 -> Check my online portfolio : https://www.canva.com/design/DAFEm6-Be7Y/Sx7h3dTDZpeO0DWlPCa1NA/view?utm_content=DAFEm6-Be7Y&utm_campaign=designshare&utm_medium=link&utm_source=viewer
 
+**_____________________________________________**
+
+| 📧 -> loan.bernat@univ-tlse3.fr
+
+| ☎️ -> +33 6 51 22 94 52
+
+| ⚒️ -> Soon : https://loanbrnt.github.io/ 
+
+**______________________________________________**
+
+## Who am I?
+
 I am an engineering student in *Robotic and Interactive System*. Since I was a child, I have admired development in artificial intelligence. After my graduation, I want to poursue **in a thesis around Machine Learning methods**.
-<!--
-**loanBRNT/loanBRNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My github allows me to list all my projects: from my small personal projects to more complex course projects! 
