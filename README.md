@@ -14,9 +14,6 @@
 
 ## Who am I?
 
-![image](https://user-images.githubusercontent.com/71443861/207015180-ee66aab7-72a2-4d65-a795-69cadc29e07a.png =20x20)
-
-
-I am an engineering student in *Robotic and Interactive System*. Since I was a child, I have admired development in artificial intelligence. After my graduation, I want to poursue **in a thesis around Machine Learning methods**.
+I am an engineering student (M1) in *Robotic and Interactive System*. Since I was a child, I have admired development in artificial intelligence. After my graduation, I want to poursue **in a thesis around Machine Learning methods**.
 
 My github allows me to list all my projects: from my small personal projects to more complex course projects! 
