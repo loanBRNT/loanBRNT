@@ -8,7 +8,7 @@
 
 | ☎️ -> +33 6 51 22 94 52
 
-| ⚒️ -> Soon : https://loanbrnt.github.io/ 
+| ⚒️ -> Soon : https://loanbrnt.github.io/ [still in dev]
 
 **______________________________________________**
 
