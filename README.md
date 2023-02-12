@@ -1,6 +1,6 @@
 # Welcome on my profile 👋
 
-🌟 -> Check my online portfolio : https://www.canva.com/design/DAFEm6-Be7Y/Sx7h3dTDZpeO0DWlPCa1NA/view?utm_content=DAFEm6-Be7Y&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+🌟 -> Check my online portfolio : https://loanbrnt.github.io/
 
 **_____________________________________________**
 
@@ -8,7 +8,7 @@
 
 | ☎️ -> +33 6 51 22 94 52
 
-| ⚒️ -> Soon : https://loanbrnt.github.io/ [still in dev]
+| ⚒️ -> https://loanbrnt.github.io/
 
 **______________________________________________**
 
